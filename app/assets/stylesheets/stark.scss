@@ -1,0 +1,15 @@
+// Place all the styles related to the stark controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background: url("http://images-cdn.moviepilot.com/images/c_fill,h_1120,w_1920/t_mp_quality/cizvpihmvrqnhmxkwbxp/11-villains-you-most-definitely-will-not-be-seeing-in-iron-man-4-courtesy-funnypictures-955558.jpg");
+}
+
+.film, .description {
+  color: #fff;
+  text-align: left;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  font-family: Copperplate;
+  font-weight: bolder;
+}
